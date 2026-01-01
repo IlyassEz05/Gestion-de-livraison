@@ -57,7 +57,7 @@ pip install openrouteservice folium geopy pandas
 
 Add Your OpenRouteService API Key:
 
-client = openrouteservice.Client(key='5b3ce3597851110001cf6248316e4e7ca5ba4c7487f23f9ea5e0abe3')
+client = openrouteservice.Client(key='YOUR_API_KEY')
 
 Run the Script:
 
